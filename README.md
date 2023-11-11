@@ -1,7 +1,6 @@
 # logos
 logos for giecar and UFF
 
-![alt text](stoneforge.png "Title")
 ![alt text](09_GIECAR_apenas_nome-02.png "Title")
 ![alt text](06_GIECAR_icone_preto.png "Title")
 ![alt text](05_GIECAR_icone_branco.png "Title")
