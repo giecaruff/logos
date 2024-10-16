@@ -1,8 +1,8 @@
-# logos
-logos for giecar and UFF
+# Logos para o SEG
 
-![alt text](seg_main_logo.png "Title")
-![alt text](SEG-logo.svg "Title")
-![alt text](logo_colorida_completa-1.png "Title")
-![alt text](seg_unsa.png "Title")
-
+| Variante       | Logo                                                                       |
+| -------------- | -------------------------------------------------------------------------- |
+| SEG logo #1    | <img src="seg_main_logo.png" alt="SEG_logo_1" width="200"/>                |
+| SEG logo #2    | <img src="SEG-logo.svg" alt="SEG_logo_2" width="200"/>                     |
+| SEG logo color | <img src="logo_colorida_completa-1.png" alt="SEG_logo_color" width="200"/> |
+| SEG UNSA       | <img src="seg_unsa.png" alt="SEG_UNSA" width="200"/>                       |

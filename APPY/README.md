@@ -1,7 +1,8 @@
-# logos
-logos for giecar and UFF
+# Logos para o APPY
 
-![alt text](appy_logo.png "Title")
-![alt text](stoneforge.png "Title")
-![alt text](core_logo.png "Title")
-![alt text](gui_logo.png "Title")
+| Variante        | Logo                                                          |
+| --------------- | ------------------------------------------------------------- |
+| APPY logo       | <img src="appy_logo.png" alt="APPY_logo" width="200"/>        |
+| CORE logo       | <img src="core_logo.png" alt="CORE_logo" width="200"/>        |
+| GUI logo        | <img src="gui_logo.png" alt="GUI_logo" width="200"/>          |
+| Stoneforge logo | <img src="stoneforge.png" alt="Stoneforge_logo" width="200"/> |
